@@ -1,0 +1,19 @@
+/* TEAM */
+
+	Owner, Developer: Kristian Thy
+	Site: https://geologik.dk/
+	Email: thy [at] 42.dk
+	Location: Taastrup, Denmark
+
+/* THANKS */
+
+	Excavator Icon: Daniel Sikorski @ The Noun Project
+    Twitter: @dsfrogg
+    Location: Gliwice, Poland
+
+/* SITE */
+	Last update: 2020-02-06
+	Language: Danish
+	Standards: HTML5, CSS3
+	Components: H5BP, jQuery, Modernizr, Normalize.css
+	Software: VS Code, Gimp
