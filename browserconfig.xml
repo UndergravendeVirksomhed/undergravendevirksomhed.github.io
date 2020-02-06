@@ -7,6 +7,7 @@
       <square150x150logo src="img/tile-medium.png"/>
       <wide310x150logo src="img/tile-wide.png"/>
       <square310x310logo src="img/tile-large.png"/>
+      <TileColor>#fafafa</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
