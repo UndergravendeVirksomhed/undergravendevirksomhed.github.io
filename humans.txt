@@ -8,8 +8,12 @@
 /* THANKS */
 
 	Excavator Icon: Daniel Sikorski @ The Noun Project
-    Twitter: @dsfrogg
-    Location: Gliwice, Poland
+	Twitter: @dsfrogg
+	Location: Gliwice, Poland
+
+	Photo: Gerold Hinzen @ Unsplash
+	Twitter: @eingerollt
+	Location: Koblenz, Germany
 
 /* SITE */
 	Last update: 2020-02-06
