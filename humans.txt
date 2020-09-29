@@ -19,5 +19,5 @@
 	Last update: 2020-02-06
 	Language: Danish
 	Standards: HTML5, CSS3
-	Components: H5BP, jQuery, Modernizr, Normalize.css
+	Components: H5BP, jQuery, Modernizr, Normalize.css, Sparsh by Colorlib
 	Software: VS Code, Gimp
